@@ -35,8 +35,10 @@ More coming soon!
 |  Swedish   |    sv    |
 |  Turkish   |    tr    |
 
-Translations from [Google Translate](https://translate.google.co.uk/), ISO Codes from [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
-
 ### Aknowledgements
 
-[Uday Hiwarale's](https://medium.com/@thatisuday) article [Creating CLI Executable global npm module](https://medium.com/jspoint/creating-cli-executable-global-npm-module-5ef734febe32)
+-   [Uday Hiwarale's](https://medium.com/@thatisuday) article [Creating CLI Executable global npm module](https://medium.com/jspoint/creating-cli-executable-global-npm-module-5ef734febe32)
+
+-   Translations from [Google Translate](https://translate.google.co.uk/)
+
+-   ISO Codes from [Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
