@@ -1,0 +1,27 @@
+{
+  "name": "greetings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/greet.js",
+  "bin": {
+        "greet": "./bin/index.js"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKP-13/greetings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKP-13/greetings/issues"
+  },
+  "homepage": "https://github.com/AKP-13/greetings#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "lodash": "^4.17.20"
+  }
+}
