@@ -7,7 +7,7 @@ Users can generate
 -   a random language's greeting
     -   `greet` or `greet --lang`
 -   the greeting for a language of their choice
-    -   `greet --lang <ISO-CODE>`
+    -   `greet --lang ISO-Code`
 
 ![CLI Interface](https://res.cloudinary.com/de8a23w1z/image/upload/v1605203258/greetings/Screenshot_2020-11-12_at_17.47.23_dyqchf.png "CLI Interface")
 
@@ -15,7 +15,7 @@ Users can generate
 
 More coming soon!
 
-|  Language  | ISO Code |
+|  Language  | ISO-Code |
 | :--------: | :------: |
 |  Croatian  |    hr    |
 |   Czech    |    cs    |
