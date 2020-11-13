@@ -33,6 +33,17 @@ Users can generate
     ```
     Will allow you to run `npm run greet-es` in the terminal and recieve `Hola!`
 
+### Usage within other apps
+
+```javascript
+const greetings = require("@akp-13/greetings");
+
+const sp = greetings.greet("es");
+
+console.log(sp);
+// -> Hola!
+```
+
 ## Supported Languages
 
 More coming soon!
