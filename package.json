@@ -1,11 +1,11 @@
 {
   "name": "@akp-13/greetings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/greet.js",
   "bin": {
-        "greet": "./bin/index.js"
-    },
+    "greet": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
