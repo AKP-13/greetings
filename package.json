@@ -1,5 +1,5 @@
 {
-  "name": "greetings",
+  "name": "@akp-13/greetings",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/greet.js",
