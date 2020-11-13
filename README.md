@@ -1,3 +1,5 @@
+![npm (scoped)](https://img.shields.io/npm/v/@akp-13/greetings)
+
 # Multi Language Greeting App
 
 Find out how to say 'hello' in a range of different languages.
