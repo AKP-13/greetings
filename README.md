@@ -31,7 +31,7 @@ Users can generate
                 }
             }
     ```
-    Will allow you to run `npm run greet es` in the terminal and recieve `Hola!`
+    Will allow you to run `npm run greet-es` in the terminal and recieve `Hola!`
 
 ## Supported Languages
 
