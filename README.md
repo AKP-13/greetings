@@ -13,6 +13,26 @@ Users can generate
 
 ![CLI Interface](https://res.cloudinary.com/de8a23w1z/image/upload/v1605203258/greetings/Screenshot_2020-11-12_at_17.47.23_dyqchf.png "CLI Interface")
 
+## Installation & Usage
+
+### Global Installation
+
+-   `npm i -g @akp-13/greetings`
+-   This will allow you to then run `greet` and generate a random language's greeting translation from anywhere in you terminal
+
+### Local Installation
+
+-   `npm i @akp-13/greetings`
+-   To use locally, you will need to add in scripts into the package.json.
+-   ```javascript
+            {
+            "scripts": {
+                "greet-es": "greet --lang es"
+            }
+        }
+    ```
+    Will allow you to run `greet --lang es` in the terminal and recieve `Hola!`
+
 ## Supported Languages
 
 More coming soon!
