@@ -1,6 +1,6 @@
 {
   "name": "@akp-13/greetings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "./lib/greet.js",
   "bin": {
