@@ -26,10 +26,10 @@ Users can generate
 -   To use locally, you will need to add in scripts into the package.json.
 -   ```javascript
             {
-            "scripts": {
-                "greet-es": "greet --lang es"
+                "scripts": {
+                    "greet-es": "greet --lang es"
+                }
             }
-        }
     ```
     Will allow you to run `greet --lang es` in the terminal and recieve `Hola!`
 
